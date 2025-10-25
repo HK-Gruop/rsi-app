@@ -1,5 +1,8 @@
+setuptools>=68.0.0
+wheel>=0.41.0
 streamlit==1.27.0
-yfinance
 pandas
-ta
 numpy
+yfinance
+ta
+pillow==10.3.0
